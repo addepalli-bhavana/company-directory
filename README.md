@@ -293,5 +293,4 @@ Returns array of all companies in the database.
 - Reset Filters button
 
 
-#   c o m p a n y - d i r e c t o r y  
- 
+#
